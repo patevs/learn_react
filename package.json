@@ -1,12 +1,12 @@
 {
-  "name": "repo-template",
-  "version": "0.1.1",
-  "description": "Basic Repository Template",
+  "name": "learn_react",
+  "version": "0.0.0",
+  "description": "Learn React",
   "author": "PatEvs",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patevs/repo-template.git"
+    "url": "git+https://github.com/patevs/learn_react.git"
   },
   "scripts": {
     "commit": "git-cz",

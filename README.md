@@ -24,6 +24,7 @@
 
 ### Examples
 
+* [`create-social-network`](https://github.com/DimiMikadze/create-social-network)
 * [`react-pwa`](https://github.com/Atyantik/react-pwa)
 * [`react-firebase-authentication`](https://github.com/the-road-to-react-with-firebase/react-firebase-authentication)
 

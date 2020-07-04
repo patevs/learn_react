@@ -1,6 +1,6 @@
-# Learn_React
+# Learn React
 
-> Links, resources, and code related to my learning of the `React` frontend JavaScript framework.
+> Links, resources, and code related to my learning of the [`React`](https://reactjs.org/) frontend `JavaScript` framework.
 
 ---
 

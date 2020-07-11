@@ -11,7 +11,7 @@
   "scripts": {
     "start": "cd react-router && react-scripts start",
     "build": "cd react-router && react-scripts build",
-    "test": "cd react-router && react-scripts test",
+    "test": "cd react-router && react-scripts test --all",
     "eject": "cd react-router && react-scripts eject",
     "commit": "git-cz",
     "release": "np"

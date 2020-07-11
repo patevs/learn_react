@@ -30,7 +30,6 @@
     "np": "^6.3.1",
     "typescript": "^3.9.6"
   },
-  "peerDependencies": {},
   "eslintConfig": {
     "extends": "react-app"
   },

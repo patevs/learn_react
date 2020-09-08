@@ -1,6 +1,6 @@
 {
   "name": "learn_react",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Links, resources, and code related to my learning of the React frontend JavaScript framework",
   "author": "PatEvs",
   "license": "MIT",
@@ -39,7 +39,9 @@
     "not op_mini all"
   ],
   "commitlint": {
-    "extends": ["./node_modules/commitlint-config-gitmoji"]
+    "extends": [
+      "./node_modules/commitlint-config-gitmoji"
+    ]
   },
   "husky": {
     "hooks": {

@@ -1,7 +1,7 @@
 {
   "anyBranch": false,
   "cleanup": true,
-  "tests": false,
+  "tests": true,
   "yolo": false,
   "publish": false,
   "preview": false,

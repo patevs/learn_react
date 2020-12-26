@@ -17,4 +17,7 @@ node_modules/
 # Production
 /build
 
+# Eslint cache
+.eslintcache
+
 # EOF #

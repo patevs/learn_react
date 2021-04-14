@@ -13,6 +13,7 @@
     "build": "cd react-router && react-scripts build",
     "test": "cd react-router && cross-env CI=true react-scripts test --all",
     "eject": "cd react-router && react-scripts eject",
+    "updates": "npx ncu",
     "release": "np"
   },
   "dependencies": {

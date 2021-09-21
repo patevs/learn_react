@@ -29,3 +29,18 @@
 * [`react-firebase-authentication`](https://github.com/the-road-to-react-with-firebase/react-firebase-authentication)
 
 ---
+
+## Project Structure
+
+```md
+.
+├── react-router         # React app
+├── .editorconfig        # Editor configuration
+├── .gitignore           # Git ignore rules
+├── .np-config.json      # NPM publish (np) configuration
+├── LICENSE              # Project LICENSE
+├── package.json         # NPM package configuration
+└── README.md            # Project README
+```
+
+---

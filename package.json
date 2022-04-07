@@ -9,6 +9,7 @@
     "url": "git+https://github.com/patevs/learn_react.git"
   },
   "scripts": {
+    "prepare": "husky install",
     "start": "cd react-router && react-scripts start",
     "build": "cd react-router && react-scripts build",
     "test": "cd react-router && cross-env CI=true react-scripts test --all",
@@ -53,11 +54,6 @@
         0,
         "never"
       ]
-    }
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   }
 }

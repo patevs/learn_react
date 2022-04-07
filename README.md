@@ -34,6 +34,7 @@
 
 ```md
 .
+├── .husky               # Husky configuration
 ├── react-router         # React app
 ├── .editorconfig        # Editor configuration
 ├── .gitignore           # Git ignore rules

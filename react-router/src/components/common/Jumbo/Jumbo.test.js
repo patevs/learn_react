@@ -5,7 +5,7 @@ import Jumbo from './Jumbo';
 
 it('renders without crashing', () => {
   // const div = document.createElement('div');
-  const containerJumbo = document.getElementById('jumbo');
+  const containerJumbo = document.createElement('jumbo');
   const rootJumbo = createRoot(containerJumbo); // createRoot(container!) if you use TypeScript
   rootJumbo.render(<Jumbo tab="jumbo" />);
   // ReactDOM.render(<Jumbo />, div);

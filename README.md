@@ -49,6 +49,8 @@
 <!--
 Fix for [`Error message "error:0308010C:digital envelope routines::unsupported"`](https://stackoverflow.com/a/69713899/6346131)
 
+Related: https://stackoverflow.com/a/60878037/6346131
+
 ```json
 {
   "scripts": {

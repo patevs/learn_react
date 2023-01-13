@@ -25,7 +25,7 @@
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.4.1",
+    "@commitlint/cli": "^17.4.2",
     "commitlint-config-gitmoji": "^2.2.9",
     "cross-env": "^7.0.3",
     "husky": "^8.0.3",

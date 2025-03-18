@@ -15,7 +15,7 @@
     "test": "cd react-router && cross-env CI=true react-scripts test --all",
     "eject": "cd react-router && react-scripts eject",
     "updates": "npx ncu",
-    "release": "npx np"
+    "release": "npx np --no-publish --no-tests"
   },
   "dependencies": {
     "react": "^17.0.2",
